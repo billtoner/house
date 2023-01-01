@@ -46,7 +46,7 @@ The check valves are currently Zoeller plastic valves that work pretty well, but
 [Quiet Check Valve](https://www.amazon.com/1-5-Quiet-Union-Check-Valve/dp/B0078RQ9T4/ref=sr_1_12?crid=1RPKGPY8E2FGZ&keywords=quiet+check+valve+1+1%2F2+inch&qid=1672598250&sprefix=the+quiet+check+valv%2Caps%2C144&sr=8-12) 
 
 ## Annual Maintenance
-<h3> Every Summer </h3>
+<h3> Every Summer (when the weather is nicer)</h3>
 - Pull the pumps up and check the bottom of the pump for objects that could potentially impede the impeller.
 - With the pumps removed, clean the area where the pumps reside.    
 
