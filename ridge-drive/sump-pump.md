@@ -4,7 +4,13 @@
 The sump pump system has a primary and secondary pump and is configured such that the secondary pump will take over if the primary fails.  
 
 ### Pump Manufacturing and Purchasing Details
-[Granger Sumbmersible Sump Pump](https://www.grainger.com/product/2P550)
+- Zoeller Submersible Sump Pump
+- 1/2 HP
+- Verticle Float
+- 61 GPM Flow Rate
+- 15' Cord
+- Link to Grainger: [Granger Sumbmersible Sump Pump](https://www.grainger.com/product/2P550)
+
 
 
 ## Failover Config
