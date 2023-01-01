@@ -12,7 +12,6 @@ The sump pump system has a primary and secondary pump and is configured such tha
 - Link to Grainger: [Granger Sumbmersible Sump Pump](https://www.grainger.com/product/2P550)
 
 
-
 ## Failover Config
 This is due to the primary pump being positioned lower in the well.  The secondary pump sits on a cinder block about 8" higher than the primary pump.  The idea is that the secondary pump's float will only engage if there was a failure in the primary pump.  
 
@@ -28,7 +27,6 @@ The reason for the specific positioning has to do with aligning the pumps to the
 
 <p 
 	align="center">
-<! <img src="https://www.pdx-i.net" -->
 	<img src="./sump-pumps-1.jpg"``
 	<em>Top View</em>
 </p>
@@ -38,5 +36,6 @@ The reason for the specific positioning has to do with aligning the pumps to the
 ## Weep Hole 
 Near the bottom of the PVC pipes exists a pre-drilled weep hole about 3/8" in diameter to prevent the pipe from getting airlocked and the pump running dry.  When the pump runs it may look like leakage of some sort, but it's very much intentional.  
 
-
+## Check Valves
+tbd
 
