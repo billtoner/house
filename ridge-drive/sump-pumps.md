@@ -1,7 +1,9 @@
 # Sump Pumps
 
 ## Overview
-The sump pump system has a primary and secondary pump and is configured such that the secondary pump will take over if the primary fails.  
+The sump pump system for 319 Ridge Drive exists to provide a place for rainwater to drain as well as underground water flow from springs that exist in the neighborhood.   A well (about 8' deep) has been created behind an upstairs bedroom and near the water faucets in the back as a place to catch water runoff.  This is where the sump pumps do the task of pumping the water from the well out to Paletine Hill Rd. on the east side of the property.  
+
+<!--- # Add picture of where the pumps exist (zoom out a bit) as well as a picture of where the drainage area is on Paletine Hill Rd. ---> 
 
 ### Pump Manufacturing and Purchasing Details
 - Zoeller Submersible Sump Pump
@@ -16,7 +18,7 @@ The sump pump system has a primary and secondary pump and is configured such tha
 Pump failover is achieved due to the primary pump being positioned lower in the well than the secondary pump. The secondary pump sits on a cinder block about 8" higher than the primary pump.  The idea is that the secondary pump's float will only engage if there was a failure in the primary pump.  
 
 ## Electrical Config
-Note that the house has a natural gas powered generator that serves as backup power to the main electrical system.  The sump pumps are designated as a critical electrical system which is why they exist on the backup electrical panel. As of January 2023 the electrical outlet for the sump pumps exists on the outside wall and in a configuration where each pump is protected by its own circuit breaker in the storage room backup electrical panel.  Note that the primary pump cord should plug into the outlet on the right hand side (labled PRI) and the secondary pump should be plugged into the left hand side (labled SEC).  The alert system can plug into either side.  
+Note that the house has a natural gas powered generator that serves as backup power to the main electrical system.  The sump pumps are designated as a critical system which is why they exist on the <em>backup</em> electrical panel. As of January 2023 the electrical outlet for the sump pumps exists on the outside wall and in a configuration where each pump is protected by its own circuit breaker in the storage room backup electrical panel.  Note that the primary pump cord should plug into the outlet on the right hand side (labled PRI) and the secondary pump should be plugged into the left hand side (labled SEC).  The alert system can plug into either side.  
 
 <figure>
   <img src="./sump-pumps-2.jpg">
