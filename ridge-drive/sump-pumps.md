@@ -13,10 +13,10 @@ The sump pump system has a primary and secondary pump and is configured such tha
 
 
 ## Failover Config
-This is due to the primary pump being positioned lower in the well.  The secondary pump sits on a cinder block about 8" higher than the primary pump.  The idea is that the secondary pump's float will only engage if there was a failure in the primary pump.  
+Pump failover is achieved due to the primary pump being positioned lower in the well than the secondary pump. The secondary pump sits on a cinder block about 8" higher than the primary pump.  The idea is that the secondary pump's float will only engage if there was a failure in the primary pump.  
 
 ## Electrical Config
-The sump pump system is connected to the electrical panel that gets used if there's a power failure, so it should always be on.  It's designated as a critical electrical system to the house.  As of January 2023 the electrical box lives on the outside wall and in a configuration where each pump is protected by its own circuit breaker in the storage room backup electrical panel.  Note that the primary pump cord should plug into the outlet on the right hand side and the secondary pump should be plugged into the left hand side.  The alert system can plug into either side.  
+Note that the house has a natural gas powered generator that serves as backup power to the main electrical system.  The sump pumps are designated as a critical electrical system which is why they exist on the backup electrical panel. As of January 2023 the electrical outlet for the sump pumps exists on the outside wall and in a configuration where each pump is protected by its own circuit breaker in the storage room backup electrical panel.  Note that the primary pump cord should plug into the outlet on the right hand side (labled PRI) and the secondary pump should be plugged into the left hand side (labled SEC).  The alert system can plug into either side.  
 
 <figure>
   <img src="./sump-pumps-2.jpg">
