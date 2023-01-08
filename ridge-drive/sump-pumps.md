@@ -1,23 +1,20 @@
 # Sump Pumps
 
 ## Overview
-The sump pump system for 319 Ridge Drive exists to provide a place for rainwater to drain as well as underground water flow from springs that exist in the neighborhood.   A well (about 8' deep) has been created behind an upstairs bedroom and near the water faucets in the back as a place to catch water runoff.  This is where the sump pumps do the task of pumping the water from the well out to Paletine Hill Rd. on the east side of the property.  
-
+The sump pump system for 319 Ridge Drive exists to provide a place for rainwater to drain as well as underground water flow from springs that exist in the neighborhood.   A well (about 8' deep) has been created behind an upstairs bedroom and near the water faucets in the back as a place to catch water runoff. 
 <figure>
   <img src="./pump-area.jpg">
   <figcaption align = "center"><b>Sump Pump Area</b>
   </figcaption>
 </figure>
 
-<br>
+This is where the sump pumps do the task of pumping the water from the well out to Paletine Hill Rd. on the east side of the property.  
 
 <figure>
   <img src="./pump-drain-1.jpg">
   <figcaption align = "center"><b>Pump Drain from Paletine Hill Rd. (Wide View)</b>
   </figcaption>
 </figure>
-
-<br>
 
 <figure>
   <img src="./pump-drain-2.jpg">
