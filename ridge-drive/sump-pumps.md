@@ -9,8 +9,17 @@ The sump pump system for 319 Ridge Drive exists to provide a place for rainwater
   </figcaption>
 </figure>
 
+<br>
+
 <figure>
   <img src="./pump-drain-1.jpg">
+  <figcaption align = "center"><b>Pump Drain from Paletine Hill Rd. (Wide View)</b>
+  </figcaption>
+</figure>
+
+<br>
+
+<figure>
   <img src="./pump-drain-2.jpg">
   <figcaption align = "center"><b>Pump Drain from Paletine Hill Rd.</b>
   </figcaption>
